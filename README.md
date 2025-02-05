@@ -1,18 +1,32 @@
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/adnanmahmud0/adnanmahmud0/refs/heads/main/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image%20(1).png"  />
+  <img height="250" src="https://raw.githubusercontent.com/adnanmahmud0/adnanmahmud0/refs/heads/main/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image%20(1).png" />
 </div>
 
 ###
 
 <h1 align="center">👋 Hi, I'm MD ADNAN MAHMUD</h1>
+<h3 align="center">🚀 Frontend Web Developer | React | Next.js Enthusiast</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I am a Front-End Developer with a strong foundation in modern web technologies and frameworks. I specialize in crafting responsive, dynamic, and user-friendly web applications. With expertise in HTML5, CSS3, Tailwind CSS, JavaScript, React.js, and backend technologies like Node.js and Express.js, I bring ideas to life with seamless functionality and engaging designs.</p>
+<p align="left">
+I am a passionate Frontend Web Developer specializing in modern web technologies. I love building responsive, dynamic, and user-friendly web applications. With expertise in HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js, I focus on delivering seamless UI/UX experiences.
+</p>
+
+###
+
+<h3 align="left">📌 Current Activities</h3>
+
+<ul align="left">
+  <li>🔍 Exploring Next.js & Advanced React Patterns</li>
+  <li>🛠️ Working on <strong>EduManage</strong> (An Education Management Platform)</li>
+  <li>💡 Enhancing UI/UX design principles</li>
+  <li>🚀 Building reusable components for modern web applications</li>
+</ul>
 
 ###
 
@@ -21,36 +35,28 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <h4>🌐 Frontend</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+
+  <h4>🛠 Tools & Version Control</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
 ###
 
 <h3 align="left">🌱 Currently Learning</h3>
 
-###
-
-<p align="left">i. MARN Stack<br>ii. Image Preprocessing With Pytho<br>iii. Machine learning and Deep learning</p>
+<ul align="left">
+  <li>Next.js & Advanced React Patterns</li>
+  <li>Image Preprocessing with Python</li>
+  <li>Machine Learning and Deep Learning</li>
+</ul>
 
 ###
 
@@ -59,17 +65,17 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/adnanmahmud99?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/adnanmahmud99" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
   <a href="https://wa.me/qr/RUH5HDRYJJQVI1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My GitHub Stats :</h3>
 
 ###
 
