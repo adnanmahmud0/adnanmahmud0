@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">👋 Hi, I'm MD ADNAN MAHMUD</h1>
-<h3 align="center">🚀 Frontend Web Developer | React | Next.js Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-I am a passionate Frontend Web Developer specializing in modern web technologies. I love building responsive, dynamic, and user-friendly web applications. With expertise in HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js, I focus on delivering seamless UI/UX experiences.
+I am a passionate Full Stack Developer specializing in modern web technologies. I love building responsive, dynamic, and user-friendly web applications. With expertise in frontend (React.js, Tailwind CSS) and backend (Node.js, Express.js, MongoDB), I aim to create seamless and high-performance applications. I am also interested in Machine Learning and AI-driven applications.
 </p>
 
 ###
@@ -24,8 +24,8 @@ I am a passionate Frontend Web Developer specializing in modern web technologies
 <ul align="left">
   <li>🔍 Exploring Next.js & Advanced React Patterns</li>
   <li>🛠️ Working on <strong>EduManage</strong> (An Education Management Platform)</li>
-  <li>💡 Enhancing UI/UX design principles</li>
-  <li>🚀 Building reusable components for modern web applications</li>
+  <li>🤖 Enhancing Image Processing & Deep Learning Skills</li>
+  <li>💡 Contributing to Open Source Projects</li>
 </ul>
 
 ###
@@ -41,11 +41,19 @@ I am a passionate Frontend Web Developer specializing in modern web technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+
+  <h4>🖥 Backend</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+
+  <h4>📊 Data Science & AI</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
 
   <h4>🛠 Tools & Version Control</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
 ###
@@ -53,7 +61,7 @@ I am a passionate Frontend Web Developer specializing in modern web technologies
 <h3 align="left">🌱 Currently Learning</h3>
 
 <ul align="left">
-  <li>Next.js & Advanced React Patterns</li>
+  <li>MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
   <li>Image Preprocessing with Python</li>
   <li>Machine Learning and Deep Learning</li>
 </ul>
