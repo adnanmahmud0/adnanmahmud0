@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">👋 Hi, I'm MD ADNAN MAHMUD</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Enthusiast</h3>
+<h3 align="center">🚀 Frontend Developer </h3>
 
 ###
 
@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-I am a passionate Full Stack Developer specializing in modern web technologies. I love building responsive, dynamic, and user-friendly web applications. With expertise in frontend (React.js, Tailwind CSS) and backend (Node.js, Express.js, MongoDB), I aim to create seamless and high-performance applications. I am also interested in Machine Learning and AI-driven applications.
+I am a passionate Frontend Developer specializing in modern web technologies. I love building responsive, dynamic, and user-friendly web applications. With expertise in frontend (React.js, Tailwind CSS) and backend (Node.js, Express.js, MongoDB), I aim to create seamless and high-performance applications. I am also interested in Machine Learning and AI-driven applications.
 </p>
 
 ###
@@ -25,7 +25,6 @@ I am a passionate Full Stack Developer specializing in modern web technologies. 
   <li>🔍 Exploring Next.js & Advanced React Patterns</li>
   <li>🛠️ Working on <strong>EduManage</strong> (An Education Management Platform)</li>
   <li>🤖 Enhancing Image Processing & Deep Learning Skills</li>
-  <li>💡 Contributing to Open Source Projects</li>
 </ul>
 
 ###
@@ -61,7 +60,7 @@ I am a passionate Full Stack Developer specializing in modern web technologies. 
 <h3 align="left">🌱 Currently Learning</h3>
 
 <ul align="left">
-  <li>MERN Stack (MongoDB, Express.js, React.js, Node.js)</li>
+  <li>Next.js</li>
   <li>Image Preprocessing with Python</li>
   <li>Machine Learning and Deep Learning</li>
 </ul>
