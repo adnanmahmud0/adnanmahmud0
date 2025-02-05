@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-I am a passionate Frontend Developer specializing in modern web technologies. I love building responsive, dynamic, and user-friendly web applications. With expertise in frontend (React.js, Tailwind CSS) and backend (Node.js, Express.js, MongoDB), I aim to create seamless and high-performance applications. I am also interested in Machine Learning and AI-driven applications.
+I am a passionate Frontend Developer specializing in modern web technologies. I love building responsive, dynamic, and user-friendly web applications. With expertise in frontend (React.js, Tailwind CSS) and backend (Node.js, Express.js, MongoDB), I aim to create seamless and high-performance applications.
 </p>
 
 ###
